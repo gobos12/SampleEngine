@@ -8,3 +8,5 @@
 
 #define MAX_NAME_STRING 256
 #define HInstance() GetModuleHandle(NULL)  // hInstance callback
+
+#include "Engine.h"

@@ -2,6 +2,9 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
+      <FullPath>C:\Users\orion\source\repos\OrionEngine\OrionEngine\Build\Engine\Debug\Engine.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
       <FullPath>C:\Users\orion\source\repos\OrionEngine\OrionEngine\Build\BlankProject\Debug\BlankProject.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>

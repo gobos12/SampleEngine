@@ -35,31 +35,31 @@
 /* Operations										 */
 /* ------------------------------------------------- */
 #pragma region OPERATIONS
-int CALLBACK WinMain(HINSTANCE, HINSTANCE, LPSTR, INT)
-{
-	InitVariables();
-
-	/* Create Window Class */
-	WNDCLASSEX wcex = RegisterWindowClass();
-	RegisterClassEx(&wcex);
-
-	/* Create and Display Window*/
-	if (!InitWindow()) {
-		MessageBox(0, L"Failed to Create Window!", 0, 0);
-		return 0;
-	}
-
-	/* Listen for Message events */
-	MSG msg{ 0 };
-	while (msg.message != WM_QUIT) {
-		if (PeekMessage(&msg, 0, 0, 0, PM_REMOVE)) {
-			TranslateMessage(&msg);
-			DispatchMessage(&msg);
-		}
-	}
-
-	return 0;
-}
+//int CALLBACK WinMain(HINSTANCE, HINSTANCE, LPSTR, INT)
+//{
+//	InitVariables();
+//
+//	/* Create Window Class */
+//	WNDCLASSEX wcex = RegisterWindowClass();
+//	RegisterClassEx(&wcex);
+//
+//	/* Create and Display Window*/
+//	if (!InitWindow()) {
+//		MessageBox(0, L"Failed to Create Window!", 0, 0);
+//		return 0;
+//	}
+//
+//	/* Listen for Message events */
+//	MSG msg{ 0 };
+//	while (msg.message != WM_QUIT) {
+//		if (PeekMessage(&msg, 0, 0, 0, PM_REMOVE)) {
+//			TranslateMessage(&msg);
+//			DispatchMessage(&msg);
+//		}
+//	}
+//
+//	return 0;
+//}
 #pragma endregion
 
 /* ------------------------------------------------- */
