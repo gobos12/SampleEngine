@@ -19,6 +19,9 @@
     <Filter Include="Source\pch">
       <UniqueIdentifier>{a46489e8-68cd-44e4-833e-aee8969e3304}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Resources\Icons">
+      <UniqueIdentifier>{8c9f5acb-db69-44f8-bd3e-6ae323a0807e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source\WinMain.cpp">
@@ -32,5 +35,18 @@
     <ClInclude Include="Source\pch.h">
       <Filter>Source\pch</Filter>
     </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Resources</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="BlankProject.rc">
+      <Filter>Resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Content\Icons\sawg.ico">
+      <Filter>Resources\Icons</Filter>
+    </Image>
   </ItemGroup>
 </Project>
