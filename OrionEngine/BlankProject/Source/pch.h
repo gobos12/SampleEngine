@@ -10,3 +10,4 @@
 #define HInstance() GetModuleHandle(NULL)  // hInstance callback
 
 #include "Engine.h"
+#include "Common/Logger.h"

@@ -14,9 +14,16 @@ Application::~Application()
 
 }
 
+VOID Application::SetupPerGameSettings()
+{
+	PerGameSettings::SetGameName(IDS_PERGAMENAME);
+	PerGameSettings::SetShortName(IDS_SHORTNAME);
+	PerGameSettings::SetMainIcon(IDI_MAINICON);
+}
+
 VOID Application::Initialize()
 {
-	MessageBox(0, L"Application initalized!", 0, 0);
+	Logger::PrintLog(L"Application Loaded!!! %s, Yahoo!!", L"Blank Project");
 }
 
 VOID Application::Update()

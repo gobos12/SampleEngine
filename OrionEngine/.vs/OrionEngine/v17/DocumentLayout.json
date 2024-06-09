@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Platform\\WIN32\\WinEntry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Source\\Platform\\WIN32\\WinEntry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE4F048A-1311-43A8-8656-313B1E820451}|BlankProject\\BlankProject.vcxproj|C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\BlankProject\\Source\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FE4F048A-1311-43A8-8656-313B1E820451}|BlankProject\\BlankProject.vcxproj|solutionrelative:BlankProject\\Source\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE4F048A-1311-43A8-8656-313B1E820451}|BlankProject\\BlankProject.vcxproj|C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\BlankProject\\Source\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FE4F048A-1311-43A8-8656-313B1E820451}|BlankProject\\BlankProject.vcxproj|solutionrelative:BlankProject\\Source\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Platform\\WIN32\\IApplication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Source\\Platform\\WIN32\\IApplication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Common\\Logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Source\\Common\\Logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Platform\\WIN32\\IApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Source\\Platform\\WIN32\\IApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE4F048A-1311-43A8-8656-313B1E820451}|BlankProject\\BlankProject.vcxproj|C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\BlankProject\\Source\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FE4F048A-1311-43A8-8656-313B1E820451}|BlankProject\\BlankProject.vcxproj|solutionrelative:BlankProject\\Source\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Common\\Logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Source\\Common\\Logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Source\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Source\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Platform\\WIN32\\WinEntry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Source\\Platform\\WIN32\\WinEntry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Core\\PerGameSettings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Source\\Core\\PerGameSettings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Core\\PerGameSettings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Source\\Core\\PerGameSettings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4F048A-1311-43A8-8656-313B1E820451}|BlankProject\\BlankProject.vcxproj|C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\BlankProject\\Source\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE4F048A-1311-43A8-8656-313B1E820451}|BlankProject\\BlankProject.vcxproj|solutionrelative:BlankProject\\Source\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Common\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Source\\Common\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Common\\Time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C82ABCA2-991D-4E23-9CED-1B89D498874E}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Source\\Common\\Time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +50,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "pch.h",
-              "DocumentMoniker": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\BlankProject\\Source\\pch.h",
-              "RelativeDocumentMoniker": "BlankProject\\Source\\pch.h",
-              "ToolTip": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\BlankProject\\Source\\pch.h",
-              "RelativeToolTip": "BlankProject\\Source\\pch.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "DocumentIndex": 8,
+              "Title": "Time.cpp",
+              "DocumentMoniker": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Common\\Time.cpp",
+              "RelativeDocumentMoniker": "Engine\\Source\\Common\\Time.cpp",
+              "ToolTip": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Common\\Time.cpp",
+              "RelativeToolTip": "Engine\\Source\\Common\\Time.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-08T23:58:03.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Time.h",
+              "DocumentMoniker": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Common\\Time.h",
+              "RelativeDocumentMoniker": "Engine\\Source\\Common\\Time.h",
+              "ToolTip": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Common\\Time.h",
+              "RelativeToolTip": "Engine\\Source\\Common\\Time.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-08T19:46:59.362Z",
+              "WhenOpened": "2024-06-08T23:57:58.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WinEntry.h",
-              "DocumentMoniker": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Platform\\WIN32\\WinEntry.h",
-              "RelativeDocumentMoniker": "Engine\\Source\\Platform\\WIN32\\WinEntry.h",
-              "ToolTip": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Platform\\WIN32\\WinEntry.h",
-              "RelativeToolTip": "Engine\\Source\\Platform\\WIN32\\WinEntry.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-08T19:06:31.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IApplication.cpp",
-              "DocumentMoniker": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Platform\\WIN32\\IApplication.cpp",
-              "RelativeDocumentMoniker": "Engine\\Source\\Platform\\WIN32\\IApplication.cpp",
-              "ToolTip": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Platform\\WIN32\\IApplication.cpp",
-              "RelativeToolTip": "Engine\\Source\\Platform\\WIN32\\IApplication.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-08T19:05:51.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IApplication.h",
-              "DocumentMoniker": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Platform\\WIN32\\IApplication.h",
-              "RelativeDocumentMoniker": "Engine\\Source\\Platform\\WIN32\\IApplication.h",
-              "ToolTip": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Platform\\WIN32\\IApplication.h",
-              "RelativeToolTip": "Engine\\Source\\Platform\\WIN32\\IApplication.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-08T19:05:44.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Application.cpp",
               "DocumentMoniker": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\BlankProject\\Source\\Application.cpp",
               "RelativeDocumentMoniker": "BlankProject\\Source\\Application.cpp",
               "ToolTip": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\BlankProject\\Source\\Application.cpp",
               "RelativeToolTip": "BlankProject\\Source\\Application.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-08T18:59:26.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Application.h",
-              "DocumentMoniker": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\BlankProject\\Source\\Application.h",
-              "RelativeDocumentMoniker": "BlankProject\\Source\\Application.h",
-              "ToolTip": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\BlankProject\\Source\\Application.h",
-              "RelativeToolTip": "BlankProject\\Source\\Application.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-08T18:59:20.286Z",
+              "WhenOpened": "2024-06-08T23:51:28.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Engine.cpp",
-              "DocumentMoniker": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Engine.cpp",
-              "RelativeDocumentMoniker": "Engine\\Source\\Engine.cpp",
-              "ToolTip": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Engine.cpp",
-              "RelativeToolTip": "Engine\\Source\\Engine.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Title": "Application.h",
+              "DocumentMoniker": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\BlankProject\\Source\\Application.h",
+              "RelativeDocumentMoniker": "BlankProject\\Source\\Application.h",
+              "ToolTip": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\BlankProject\\Source\\Application.h",
+              "RelativeToolTip": "BlankProject\\Source\\Application.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-08T23:39:18.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PerGameSettings.cpp",
+              "DocumentMoniker": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Core\\PerGameSettings.cpp",
+              "RelativeDocumentMoniker": "Engine\\Source\\Core\\PerGameSettings.cpp",
+              "ToolTip": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Core\\PerGameSettings.cpp",
+              "RelativeToolTip": "Engine\\Source\\Core\\PerGameSettings.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-08T18:51:32.939Z",
+              "WhenOpened": "2024-06-08T23:32:48.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "PerGameSettings.h",
+              "DocumentMoniker": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Core\\PerGameSettings.h",
+              "RelativeDocumentMoniker": "Engine\\Source\\Core\\PerGameSettings.h",
+              "ToolTip": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Core\\PerGameSettings.h",
+              "RelativeToolTip": "Engine\\Source\\Core\\PerGameSettings.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-08T23:32:41.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WinEntry.h",
+              "DocumentMoniker": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Platform\\WIN32\\WinEntry.h",
+              "RelativeDocumentMoniker": "Engine\\Source\\Platform\\WIN32\\WinEntry.h",
+              "ToolTip": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Platform\\WIN32\\WinEntry.h",
+              "RelativeToolTip": "Engine\\Source\\Platform\\WIN32\\WinEntry.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-08T23:12:33.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Engine.h",
               "DocumentMoniker": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Engine.h",
               "RelativeDocumentMoniker": "Engine\\Source\\Engine.h",
               "ToolTip": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Engine.h",
               "RelativeToolTip": "Engine\\Source\\Engine.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-08T18:51:27.893Z",
+              "WhenOpened": "2024-06-08T23:11:06.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cpp",
+              "DocumentMoniker": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Common\\Logger.cpp",
+              "RelativeDocumentMoniker": "Engine\\Source\\Common\\Logger.cpp",
+              "ToolTip": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Common\\Logger.cpp",
+              "RelativeToolTip": "Engine\\Source\\Common\\Logger.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-08T23:04:00.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.h",
+              "DocumentMoniker": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Common\\Logger.h",
+              "RelativeDocumentMoniker": "Engine\\Source\\Common\\Logger.h",
+              "ToolTip": "C:\\Users\\orion\\source\\repos\\OrionEngine\\OrionEngine\\Engine\\Source\\Common\\Logger.h",
+              "RelativeToolTip": "Engine\\Source\\Common\\Logger.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-08T23:03:55.454Z",
               "EditorCaption": ""
             }
           ]
