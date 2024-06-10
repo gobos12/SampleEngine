@@ -1,4 +1,0 @@
-﻿  Application.cpp
-  pch.cpp
-  WinMain.cpp
-LINK : fatal error LNK1168: cannot open C:\Users\orion\source\repos\OrionEngine\OrionEngine\\Build\BlankProject\Debug\BlankProject.exe for writing
