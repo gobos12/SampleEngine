@@ -23,10 +23,11 @@ VOID Application::SetupPerGameSettings()
 
 VOID Application::Initialize()
 {
+	Logger::StartMTail();
 	Logger::PrintLog(L"Application Loaded!!! %s, Yahoo!!", L"Blank Project");
 }
 
 VOID Application::Update()
 {
-	MessageBox(0, L"Loop...", 0, 0);
+	//Logger::PrintLog(L"Loop...");
 }

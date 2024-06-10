@@ -35,7 +35,7 @@ std::wstring Time::GetDate(BOOL stripped)
 	tm ltm;
 	localtime_s(&ltm, &now);
 	std::wstringstream wss;
-	wss << std::put_time(&ltm, L"%d%m%y");
+	wss << std::put_time(&ltm, L"%d/%m/%y");
 
 	std::wstring dateString = wss.str();
 
