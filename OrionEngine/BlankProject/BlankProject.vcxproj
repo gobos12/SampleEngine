@@ -61,7 +61,7 @@
       <LanguageStandard_C>stdc17</LanguageStandard_C>
       <PrecompiledHeader>Create</PrecompiledHeader>
       <PrecompiledHeaderFile>BlankProject.h</PrecompiledHeaderFile>
-      <AdditionalIncludeDirectories>C:\Users\orion\source\repos\OrionEngine\OrionEngine\Engine\Source;C:\Users\orion\source\repos\OrionEngine\OrionEngine\BlankProject\Source;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)\Engine\Source;$(SolutionDir)\BlankProject\Source;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
