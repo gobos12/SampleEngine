@@ -20,11 +20,16 @@ namespace Win32
 
 		VOID OnNonClientCreate();
 
+		VOID OnNonClientActivate(BOOL active);
+
 		VOID OnNonClientPaint(HRGN region);
+
 
 	protected:
 		SIZE		m_Size;
 		WindowType  m_Type;
+
+		BOOL m_IsActive;
 
 	public:
 		SIZE		Size() { return m_Size; }
