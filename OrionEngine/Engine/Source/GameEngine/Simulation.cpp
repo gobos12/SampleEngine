@@ -2,7 +2,7 @@
 #include "Simulation.h"
 #include "GameEngine/SplashScreen.h"
 
-Engine::Simulation::Simulation()
+Engine::Simulation::Simulation() : Win32::Window(L"MainApplication", NULL)
 {
 
 }
@@ -22,4 +22,18 @@ VOID Engine::Simulation::PreInitialize()
 	Logger::PrintDebugSeperator();
 
 	SplashScreen::Open();
+
+	Win32::Window::RegisterNewClass();
+	Win32::Window::Initialize();
+}
+
+
+LRESULT Engine::Simulation::MessageHandler(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam)
+{
+	switch (msg)
+	{
+
+	}
+
+	return Window::MessageHandler(hWnd, msg, wParam, lParam);
 }

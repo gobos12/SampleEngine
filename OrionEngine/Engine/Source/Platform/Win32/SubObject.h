@@ -1,4 +1,4 @@
-#pragma once
+  #pragma once
 
 namespace Win32
 {
@@ -16,10 +16,7 @@ namespace Win32
 		static LRESULT AssignMessageHandler(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam);
 
 		/* message handler for ALL subobjects*/
-		virtual LRESULT CommonMessageHandler(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam);
-
-		/* message handler for inherited subobjects */
-		virtual LRESULT MessageHandler(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam) = 0;
+		virtual LRESULT MessageHandler(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam);
 
 	protected:
 		std::wstring m_Class;
@@ -28,6 +25,9 @@ namespace Win32
 		HWND m_Handle;
 
 	public:
-		HWND GetHandle() { return m_Handle; }
+		HWND Handle() { return m_Handle; }
+
+	public:
+		VOID Handle(HWND hwnd) { m_Handle = hwnd;  }
 	};
 }
