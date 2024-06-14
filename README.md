@@ -1,1 +1,1 @@
-My first game engine with DirectX12. 
+Sample game engine following a CPP Game Engine tutorial by Olympus Mons Tutorials. 
